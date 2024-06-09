@@ -55,7 +55,7 @@ I had the chance to strengthen my skills.although i am still lacking in terms of
 
 ## Author
 
-- Website - [Rami](https://www.your-site.com)
-- Frontend Mentor - [@Onlyy-ram](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Rami](https://onlyy-ram.github.io/blog-preview-card-fm/)
+- Frontend Mentor - [@Onlyy-Ram](https://www.frontendmentor.io/profile/Onlyy-Ram)
+- instgram - [@onlyy__ram](https://www.instagram.com/onlyy__ram/)
 
