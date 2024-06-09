@@ -94,15 +94,17 @@ h2{
     padding: 5px;
 }
 
-p{
-    color: var(--Grey);
-}
-
-h4{
+.main__greg{
+    color: var(--Black);
     display: inline;
     margin-left: 5rem;
     margin-top: -30px;
 }
+
+p{
+    color: var(--Grey);
+}
+
 
 /* attribution */
 
